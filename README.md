@@ -1,2 +1,2 @@
-# Smart_Contract_Audit_Reports
-Smart contract security audit report performed by [chhajershrenik](https://github.com/chhajershrenik).
+# Smart Contract Audit Reports
+Collection Smart contract security audit reports performed by [chhajershrenik](https://github.com/chhajershrenik).
